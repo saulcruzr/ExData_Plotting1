@@ -1,4 +1,4 @@
-##assuming that the file household_power_consumption.txt is in ./data/ directory
+
 #Loading the data
 temp <- tempfile()
 download.file("https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip",temp)
